@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BITTA\'S SPECIAL</string>
+    <string name="app_slogan_bn">১৮-১৯ পর্যন্ত ভালোভাবে চলবেই</string>
+    <string name="app_subtitle_bn">সপ্তম শ্রেণির ইংরেজি গ্রামার (NCTB)</string>
+    <string name="app_hero_title">Class 7 English Grammar</string>
+    <string name="app_hero_subtitle">BD NCTB Curriculum • সহজ বাংলা ও ইংরেজি ব্যাখ্যাসহ</string>
+    <string name="nav_learn">Learn</string>
+    <string name="nav_quiz">Practice</string>
+    <string name="nav_composition">Writing</string>
+    <string name="nav_progress">Progress</string>
+</resources>

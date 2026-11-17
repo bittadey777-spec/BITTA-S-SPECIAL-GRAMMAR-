@@ -1,0 +1,6 @@
+{
+  "name": "BITTA'S SPECIAL",
+  "description": "Class 7 English Grammar (BD Curriculum) tailored for Bangladesh NCTB students with bilingual Bengali-English lessons, interactive MCQ & fill-in-the-blank quizzes, and local progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
